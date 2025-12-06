@@ -1,6 +1,6 @@
 # Vue Starter
 
-A solid Vue 3 + TypeScript starter for building SPAs with authentication, internationalization, and state management.
+A solid starter for building SPAs with Vue 3 and TypeScript.
 
 ### Stack
 
