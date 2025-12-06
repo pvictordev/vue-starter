@@ -28,7 +28,7 @@
     "@intlify/unplugin-vue-i18n": "^11.0.1",
     "@tsconfig/node22": "^22.0.1",
     "@types/node": "^22.15.29",
-    "@vitejs/plugin-vue": "^5.2.3",
+    "@vitejs/plugin-vue": "^6.0.2",
     "@vue/tsconfig": "^0.8.1",
     "eslint": "^9.39.1",
     "npm-run-all2": "^8.0.4",
