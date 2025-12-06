@@ -11,7 +11,7 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "@primeuix/themes": "^1.1.1",
+    "@primeuix/themes": "^2.0.2",
     "@vuelidate/core": "^2.0.3",
     "@vuelidate/validators": "^2.0.4",
     "axios": "^1.11.0",
