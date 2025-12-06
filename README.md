@@ -1,4 +1,4 @@
-# Vue Boilerplate
+# Vue Starter
 
 A rock-solid foundation to build a SPA for your next project with Vue 3 with TypeScript, featuring authentication, internationalization, state management, and a clean architecture pattern.
 
