@@ -1,0 +1,46 @@
+{
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "emailPlaceholder": "Entrez votre e-mail",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "loginButton": "Se connecter",
+      "forgotPasswordLink": "Avez-vous oublié votre mot de passe?",
+      "emailRequired": "*L'e-mail est requis",
+      "passwordRequired": "*Le mot de passe est requis",
+      "invalidCredentials": "E-mail ou mot de passe invalide"
+    },
+    "forgotPassword": {
+      "title": "Mot de passe oublié",
+      "email": "E-mail",
+      "emailPlaceholder": "Entrez votre e-mail",
+      "submitButton": "Soumettre",
+      "rememberedPasswordLink": "Vous êtes-vous souvenu de votre mot de passe?",
+      "emailRequired": "*L'e-mail est requis"
+    }
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {name}",
+    "doorOpen": "La porte est ouverte, maintenant vous pouvez faire ce que vous voulez"
+  },
+  "system": {
+    "header": {
+      "dashboard": "Tableau de bord"
+    },
+    "footer": {
+      "copyright": "© {year} Vue Boilerplate"
+    },
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page non trouvée",
+      "message": "La page que vous recherchez n'existe pas.",
+      "goHomeButton": "Retour à l'accueil"
+    },
+    "languageSwitcher": {
+      "english": "English",
+      "french": "Français"
+    }
+  }
+}

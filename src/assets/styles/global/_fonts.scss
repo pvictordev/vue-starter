@@ -1,0 +1,15 @@
+// Fonts and sizes
+$ultrathin: 100;
+$thin: 300;
+$regular: 400;
+$semibold: 600;
+
+// Fontfaces
+$sans-fontface: "Outfit", sans-serif;
+$mono-fontface: "Inconsoloata";
+
+$sans-font-stack: $sans-fontface, Helvetica, Arial, sans-serif;
+$mono-font-stack: $mono-fontface, monospace;
+
+// Defaults
+$default-font-stack: $sans-font-stack;

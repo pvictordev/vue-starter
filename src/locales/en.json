@@ -1,0 +1,46 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password",
+      "loginButton": "Login",
+      "forgotPasswordLink": "Did you forgot your password?",
+      "emailRequired": "*Email is required",
+      "passwordRequired": "*Password is required",
+      "invalidCredentials": "Invalid email or password"
+    },
+    "forgotPassword": {
+      "title": "Forgot password",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "submitButton": "Submit",
+      "rememberedPasswordLink": "Did you remembered your password?",
+      "emailRequired": "*Email is required"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome, {name}",
+    "doorOpen": "The door is open, now you can do whatever you want"
+  },
+  "system": {
+    "header": {
+      "dashboard": "Dashboard"
+    },
+    "footer": {
+      "copyright": "© {year} Vue Boilerplate"
+    },
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page Not Found",
+      "message": "The page you are looking for does not exist.",
+      "goHomeButton": "Go Home"
+    },
+    "languageSwitcher": {
+      "english": "English",
+      "french": "Français"
+    }
+  }
+}
